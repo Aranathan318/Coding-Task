@@ -86,7 +86,7 @@ Deleted: Submit assignment
 ```
 
 ## Credits
-This project was created by [Your Name].
+This project was created by Dean Isaac.
 
 Feel free to contribute, report issues, or suggest improvements!
 
