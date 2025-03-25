@@ -22,7 +22,7 @@ To run this project on your local machine, follow these steps:
    ```
 2. **Clone this repository**
    ```sh
-   git clone [https://github.com/Aranathan318/Coding-Task.git]
+   git clone https://github.com/Aranathan318/Coding-Task.git
    ```
 3. **Navigate to the project folder**
    ```sh
