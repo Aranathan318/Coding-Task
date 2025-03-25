@@ -1,0 +1,18 @@
+[
+    {
+        "task": "To study Geometry",
+        "done": true
+    },
+    {
+        "task": "To Study Coding",
+        "done": true
+    },
+    {
+        "task": "Complete Python project",
+        "done": true
+    },
+    {
+        "task": "Submit assignment",
+        "done": false
+    }
+]
