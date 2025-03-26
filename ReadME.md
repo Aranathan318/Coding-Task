@@ -26,7 +26,7 @@ To run this project on your local machine, follow these steps:
 
 3. **Navigate to the project folder**
 
-   cd todo-list
+   cd Coding Task
 
 4. **Run the program**
 
