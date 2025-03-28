@@ -60,7 +60,7 @@ After running the script, a menu will be displayed:
 ![Deleting a task](Images/Screenshot%202025-03-25%20at%2017.10.03.png)
 
 ## Credits
-This project was created by [Your Name].
+This project was created by Dean Isaac.
 
 Feel free to contribute, report issues, or suggest improvements!
 
